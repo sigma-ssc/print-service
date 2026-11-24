@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/00 Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/01 Application/">
+    <Project Path="PrintService/PrintService.csproj" />
+  </Folder>
+</Solution>
